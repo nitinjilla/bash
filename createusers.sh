@@ -1,4 +1,4 @@
-### Creating users using Bash
+### Creating users in bash
 
 #!/bin/bash
 
