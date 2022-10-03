@@ -1,5 +1,3 @@
-### Creating users in bash
-
 #!/bin/bash
 
 echo Validating if user $1 exists...
