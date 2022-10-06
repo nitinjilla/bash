@@ -13,7 +13,7 @@ Usage: mkmnt -d <dev-id> -s <size> -v <volume-group> -l <logical-volume> -m <mou
     -s      Size in MB, GB, TB              (for e.g. 2g, 50m)
     -v      Name of the volume group
     -l      Name of the logical volume
-    -m      Abolute path of the mount point (for e.g. /test, /opt/test/tested)
+    -m      Absolute path of the mount point (for e.g. /test, /opt/test/tested)
 
 Example:
 To create a VG
