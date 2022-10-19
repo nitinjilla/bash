@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Author: Nitin Ganesh Jilla
+# Author: Nitin Jilla
 
 # To create/extend VG (xfs) in bash
 
