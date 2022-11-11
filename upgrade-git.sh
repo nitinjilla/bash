@@ -25,6 +25,6 @@ ln -sf /usr/local/git/bin/* /bin/
 
 #Delete tarball
 cd ..
-rm -rf /root/git-$1.tar.gz
+rm -rf /temp-git/git-$1.tar.gz
 
 echo Git upgraded to version $(git --version | awk '{print $3}') successfully!
