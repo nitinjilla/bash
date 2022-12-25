@@ -1,2 +1,2 @@
 # bash-practice
-for practicing automation and logic on BASH
+for practicing automation and logic in BASH
