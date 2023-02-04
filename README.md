@@ -1,2 +1,1 @@
-# bash-practice
-for practising automation and logic in BASH
+just my bash scripts
