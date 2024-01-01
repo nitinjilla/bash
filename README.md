@@ -1,1 +1,1 @@
-just my bash scripts
+fooling around with bash
